@@ -20,7 +20,7 @@ My hobbies:
 <h2>🛠 Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,linux,mysql,nodejs,py,rabbitmq,raspberrypi,bootstrap,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,linux,mysql,nodejs,py,rabbitmq,raspberrypi,bootstrap,flutter&perline=4" />
   </a>
 </p>
 
