@@ -33,7 +33,7 @@ My hobbies:
 | I can't stop to use | ![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![image](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 
 <div align="center">
-  <h3>My stats</h3>
+  <h2>My stats</h2>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelof-exe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br />
