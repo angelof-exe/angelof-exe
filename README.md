@@ -18,3 +18,4 @@ My hobbies:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelof-exe)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelof-exe)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=angelof_exe)](https://github.com/anuraghazra/github-readme-stats)
