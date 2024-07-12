@@ -20,6 +20,7 @@ My hobbies:
 <p align="center">
   <h2>🛠 Skills</h2>
 </p>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,linux,mysql,nodejs,py,rabbitmq,raspberrypi,bootstrap,flutter&perline=4" />
   </a>
@@ -27,6 +28,7 @@ My hobbies:
 <p align="center">
   <h2>🖥️ Software and others I use(d)</h2>
 </p>
+
 | NAME | BADGE |
 | ------ | ------ |
 | Python Packages | ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) |
