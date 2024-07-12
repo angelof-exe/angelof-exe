@@ -32,7 +32,11 @@ My hobbies:
 | Graphics | ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | I can't stop to use | ![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![image](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelof-exe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br />
+<div align="center">
+  <h3>My stats</h3>
+</div>
+***
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelof-exe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelof-exe&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=angelof_exe)](https://github.com/anuraghazra/github-readme-stats)
