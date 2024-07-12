@@ -1,6 +1,7 @@
 # NICE TO MEET YOU! 👋
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
+***
 I'm Angelo, 24 years old from Italy. 
 I'm studying Mobile App Development with Flutter Framework.
 
@@ -9,7 +10,7 @@ My hobbies:
 - Gaming
 - Graphics Design
 
-## 🛠 Skills
+<h2>🛠 Skills</h2>
 - Flutter
 - C++
 - Python
