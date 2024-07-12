@@ -16,13 +16,14 @@ My hobbies:
 - Graphics Design 🎨
 - Walk in nature 🚶🌿
 
-<h2>🛠 Skills</h2>
+
 <p align="center">
+  <h2>🛠 Skills</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,linux,mysql,nodejs,py,rabbitmq,raspberrypi,bootstrap,flutter&perline=4" />
   </a>
 </p>
-
+<p align="center">
 <h2>🖥️ Software and others I use(d)</h2>
 
 | NAME | BADGE |
@@ -31,6 +32,7 @@ My hobbies:
 | IDE | ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) |
 | Graphics | ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | I can't stop to use | ![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![image](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
+</p>
 
 <div align="center">
   <h2>My stats</h2>
