@@ -8,15 +8,13 @@
 </div>
 
 I'm Angelo, 25 years old from Italy 🇮🇹 <br />
-I'm currently working in [Italspazio SRL](https://www.italspazio.com/it/) as Software Developer 🛰️
+I'm currently working in [Italspazio SRL](https://www.italspazio.com/it/) as Software Developer 🛰️<br /><br />
 
-***
 My hobbies: 
 - Coding 👨‍💻
 - Gaming 🎮
 - Graphics Design 🎨
 - Walk in nature 🚶🌿
-***
 
 <h2>🛠 Skills</h2>
 <p align="center">
