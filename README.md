@@ -1,4 +1,6 @@
-# NICE TO MEET YOU! 👋
+<div align="center">
+  # NICE TO MEET YOU! 👋
+</div>
 
 <div align="center">
   <h2>🚀 About Me</h2>
