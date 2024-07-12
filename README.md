@@ -20,6 +20,11 @@ My hobbies:
 <h2>🛠 Skills</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,linux,mysql,nodejs,py,rabbitmq,raspberrypi,bootstrap&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelof-exe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelof-exe&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
