@@ -4,11 +4,11 @@
 
 ***
 <div align="center">
-  🚀 *About Me*
+  🚀 **About Me**
 </div>
 
 I'm Angelo, 25 years old from Italy 🇮🇹 <br />
-I'm currently working in [Italspazio SRL](https://www.italspazio.com/it/) as Software Developer 🚀
+I'm currently working in [Italspazio SRL](https://www.italspazio.com/it/) as Software Developer 🛰️
 ***
 
 
