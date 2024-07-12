@@ -2,15 +2,13 @@
   <h1> NICE TO MEET YOU! 👋 </h1>
 </div>
 
-***
+
 <div align="center">
-  🚀 **About Me**
+  <h2>🚀 About Me</h2>
 </div>
 
 I'm Angelo, 25 years old from Italy 🇮🇹 <br />
 I'm currently working in [Italspazio SRL](https://www.italspazio.com/it/) as Software Developer 🛰️
-***
-
 
 ***
 My hobbies: 
