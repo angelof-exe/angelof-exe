@@ -16,18 +16,18 @@ My hobbies:
 - Graphics Design 🎨
 - Walk in nature 🚶🌿
 
-
-<p align="center">
+<div align="center">
   <h2>🛠 Skills</h2>
-</p>
+
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,linux,mysql,nodejs,py,rabbitmq,raspberrypi,bootstrap,flutter&perline=4" />
   </a>
+</div>
 
-<p align="center">
+<div align="center">
   <h2>🖥️ Software and others I use(d)</h2>
-</p>
+</div>
 
 | NAME | BADGE |
 | ------ | ------ |
