@@ -41,9 +41,11 @@ My hobbies:
 
 <div align="center">
   <h2>My stats</h2>
-</div>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelof-exe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelof-exe&layout=pie)](https://github.com/anuraghazra/github-readme-stats)<br />
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=angelof_exe)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
