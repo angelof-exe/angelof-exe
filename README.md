@@ -40,7 +40,7 @@ My hobbies:
 
 
 <div align="center">
-  <h2>My stats</h2>
+  <h2>📊 My stats</h2>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelof-exe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br />
