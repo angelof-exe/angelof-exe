@@ -21,7 +21,7 @@ My hobbies:
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,linux,mysql,nodejs,py,rabbitmq,raspberrypi,bootstrap,flutter,react,flask&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,linux,mysql,nodejs,py,rabbitmq,raspberrypi,bootstrap,flutter,react,flask&perline=7" />
   </a>
 </div>
 
